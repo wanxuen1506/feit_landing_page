@@ -1,1 +1,1 @@
-# feit_landing_page
+# Southern University College - Feit Landing Page
